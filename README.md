@@ -1,7 +1,7 @@
 <h1 align="center">Hello 🙌, I'm Amir</h1>
 <h3 align="center">dart\Flutter dev</h3>
 
-- I’m currently learning **dart\Flutter, Swift\SwiftUI, Kotlin\Jetpack Compouse**
+- I’m currently learning **dart\Flutter, GLSL, Swift\SwiftUI, Kotlin\Jetpack Compouse**
 
 - How to reach me **amir.asakeev.r@gmail.com**
 
