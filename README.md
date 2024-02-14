@@ -1,5 +1,5 @@
-<h1 align="center">Hello 🙌, I'm Amir</h1>
-<h3 align="center">dart\Flutter dev</h3>
+<h1 align="center">Greetings, I'm Amir</h1>
+<h3 align="center">mainly dart\Flutter dev</h3>
 
 - I’m currently learning **dart\Flutter, GLSL, Swift\SwiftUI, Kotlin\Jetpack Compouse**
 
