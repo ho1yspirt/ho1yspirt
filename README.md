@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning: dartlang, Flutter, AWS, NodeJS, NestJS<br><br>🎲 Fun fact: Dart's Dash is female lol.</p>
+<p align="left">📚 I'm currently learning: dartlang, Flutter, Golang<br><br>🎲 Fun fact: Dart's Dash is female lol.</p>
 
 ###
 
