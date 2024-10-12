@@ -1,8 +1,6 @@
-<h1 align="left">Sup! 🙌</h1>
 
-###
 
-<p align="left">My name is Amir, mainly dart/Flutter dev</p>
+<p align="left">Amir, mainly dart/Flutter dev</p>
 
 ###
 
@@ -10,11 +8,11 @@
 
 ###
 
-<p align="left">📚 I'm currently learning: dartlang, Flutter, Golang<br><br>🎲 Fun fact: Dart's Dash is female lol.</p>
+<p align="left">📚 Currently learning: dartlang, Flutter, Golang<br><br>🎲 Fun fact: Dart's Dash is female lol.</p>
 
 ###
 
-<h2 align="left">Connect with me:</h2>
+<h2 align="left">Connect with me</h2>
 
 ###
 
@@ -73,7 +71,7 @@
 </div>
 
 <div align="left">
-    <h3>Or listen Epic Eurobeat mixes together on:</h3>
+    <h5>Or listen Epic Eurobeat mixes together on:</h5>
     <a href="https://open.spotify.com/user/9dus9oe8cdlpe6pdlmbj184zl?si=71e3004774d14aef" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" alt="spotify img svg" height="30" width="40" /></a>
 </div>
 
