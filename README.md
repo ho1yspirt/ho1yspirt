@@ -84,7 +84,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/ho1yspirt/ho1yspirt/output/snake.svg" alt="Snake animation" />
-
-###
