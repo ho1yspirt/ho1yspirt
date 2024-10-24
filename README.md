@@ -76,9 +76,15 @@
   </a>
 </div>
 
+###
+
 <div align="left">
     <h5>Or listen Epic Eurobeat mixes together on:</h5>
     <a href="https://open.spotify.com/user/9dus9oe8cdlpe6pdlmbj184zl?si=71e3004774d14aef" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" alt="spotify img svg" height="40" width="40" /></a>
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/ho1yspirt/ho1yspirt/output/snake.svg" alt="Snake animation" />
 
 ###
