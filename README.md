@@ -59,17 +59,3 @@
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="24" alt="figma logo"  />
 </div>
-
-###
-
-<h3 align="left">Listen with me:</h3>
-
-###
-
-<div align="left">
-  <a href="https://open.spotify.com/user/9dus9oe8cdlpe6pdlmbj184zl">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=9dus9oe8cdlpe6pdlmbj184zl&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
