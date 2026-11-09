@@ -43,8 +43,6 @@
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="24" alt="sqlite logo"  />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="24" alt="amazonwebservices logo"  />
-  <img width="8" />
   <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="24" alt="supabase logo"  />
   <img width="8" />
   <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="24" alt="firebase logo"  />
